@@ -1,9 +1,9 @@
 # Superhero_Tournament_GCSE
 A Game Creation System Version of Superhero_Tournament_Compacted for Roblox.
 
-Both source code and game is under .rbxl file but however source code is in StarterPlayer > StarterPlayerScript > localscript.
+Both source code and game is under .rbxl file but however source code is in StarterPlayer > StarterPlayerScript > localscript, for client side and ServerScriptService > Script for server side.
 
-<a href="">Play Game in Roblox Here</a>
+<a href="https://www.roblox.com/games/98378184023888/Superhero-Tournament-GCSE">Play Game in Roblox Here</a>
 
 <h3>Both of these links take you to Superhero_Tournament</h3>
 
